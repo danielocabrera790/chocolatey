@@ -1,3 +1,3 @@
 ## Que es chocolatey...
 Chocolatey es un gestor de paquetes de línea de comandos para Microsoft Windows. Utiliza la infraestructura de empaquetado de NuGet y PowerShell para simplificar el proceso de descarga e instalación de software.​En abril de 2014, Microsoft debutó con OneGet junto con PowerShell 5.
-![add]()
+![a](https://github.com/danielocabrera790/chocolatey/blob/main/Choco/choco.png)
